@@ -1,7 +1,6 @@
 #! /sma/local/anaconda/bin/python
 #/usr/bin/env python
 #/opt/cfpython/anaconda2.7/bin/python
-# This is a test comment
 
 import numpy as np
 import scipy.io
